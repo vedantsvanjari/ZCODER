@@ -45,7 +45,7 @@ To get started with Zcoder, follow these steps:
    ```
 4. **Run the application:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
@@ -77,12 +77,3 @@ We welcome contributions from the community! To contribute to Zcoder, please fol
 
 
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to contact us at sanyajain2240@gmail.com.
-
-Thank you for using Zcoder! Happy coding!
-
----
-
-Feel free to customize this README further based on your project's specifics and additional information you may want to include.
